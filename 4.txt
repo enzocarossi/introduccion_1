@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 este grupo es lo mas
+=======
+Lunes
+
+>>>>>>> fd1e19b64164c599b18c9ee5ed1d911a04927619
