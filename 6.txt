@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hoy comi tacos
+=======
+Esta es la modificacion de Gerardo Daglio
+>>>>>>> f73058aab6354506daffec8f787238dc79ef0eda
